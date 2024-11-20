@@ -5,7 +5,3 @@
 - 📫 How to reach me: You can reach me via email or through my GitHub profile
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m passionate about combining technology and creativity in innovative ways!
-
-Syntaxri/Syntaxri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
