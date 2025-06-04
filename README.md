@@ -1,1 +1,1 @@
-@Syntaxri or "ViaruQ" is a Junior Software Developer
+"Syntaxri" or "ViaruQ" is a Junior Software Developer
