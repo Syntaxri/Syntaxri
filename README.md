@@ -1,5 +1,5 @@
 # 💫 About Me:
-Syntaxri is a Junior Software Developer currently building his first professional senior portfolio.<br>He has already developed AtlasClub, a clothing store platform that integrates Meta technologies and NFT-based payment systems.<br>He also created Nakba 1.0, a news portal and media publishing platform, along with several multi-page websites.
+Syntaxri is a Junior Software Developer...
 
 
 ## 🌐 Socials:
